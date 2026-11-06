@@ -1,6 +1,6 @@
 # Exercice complet : l'électricité dans 12 quartiers
 
-**Lien de mon application :** (à coller ici une fois en ligne)
+**Lien de mon application :** (http://127.0.0.1:8501/)
 
 Une compagnie d'électricité (fictive) vous confie deux ans de relevés, de janvier 2024 à décembre 2025, pour 12 quartiers de Port-au-Prince, Delmas, Pétion-Ville et Cap-Haïtien. Le directeur veut savoir si la consommation suit la chaleur, ou les heures de courant.
 
